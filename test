@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 This is a test file to check branch working
+=======
+hello there is a change 
+>>>>>>> b_test
+now to fix bug
